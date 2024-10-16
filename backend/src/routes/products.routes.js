@@ -7,7 +7,7 @@ productsRouter.post('/', uploadImage("product"), (req, res) => {
     console.log(req.body);
 
     res.status(201).json({
-        msg: 'Producto creado correctamente',
+        image: req.body.product,
     });
 });
 
