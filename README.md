@@ -1,11 +1,11 @@
-# Proyecto de Subida de Multimedia
+# Proyecto Para Subir Archivos Multimedia
 
-Este proyecto permite la subida de archivos multimedia a través de una interfaz web.
+Este proyecto permite subir de archivos multimedia desde el navegador y guardarlos en el proyecto.
 
 ## Características
 
 - Subida de imágenes
-- Vista previa de archivos antes de la subida.
+- Vista previa de archivos antes de subirlos.
 
 ## Requisitos
 
